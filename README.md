@@ -15,7 +15,10 @@ Our analysis revealed several critical insights into the relationship between pr
 
 * Health Indicators: Maternal mortality and under-5 mortality rates were identified as the strongest negative predictors. A decrease in these rates shows a direct and significant boost to a nation's average life expectancy.Government Spending: There is a clear positive correlation between health expenditure per capita and longevity, but the efficiency of this spending varies significantly by region.
 
--Insignificant Factors: Interestingly, our model found that unemployment rates did not have a statistically significant impact on life expectancy when other socio-economic variables were controlled.
+* Insignificant Factors: Interestingly, our model found that unemployment rates did not have a statistically significant impact on life expectancy when other socio-economic variables were controlled.
+
+
+![Dashboard Görünümü](images/regress.png)
 
 ## 🎨 MY CONTRIBUTION: DATA VISUALIZATION:
 
