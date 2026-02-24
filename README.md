@@ -35,3 +35,17 @@ In this award-winning project, I was solely responsible for the entire Data Visu
 
 * This project allowed me to gain a deep, professional-level mastery of Power BI, including complex DAX measures, data modeling, and user-centric dashboard design. It taught me how to tell a compelling story with data, which was the key factor in our team's victory.
 
+
+## 📁 Repository Files
+
+
+* **`wdi_dashboard.pbix`**: The 1st place winning interactive Power BI Dashboard.
+* **`wdi_regression_analysis.ipynb`**: The primary Python notebook containing our Multivariate Regression Analysis.
+* **`wdi_visualization.ipynb`**: Exploratory Data Analysis (EDA) and initial data visualizations.
+* **`achievementcertificate.pdf`**: Our official Achievement Certificate from the American Statistical Association.
+
+## 📺 Presentation 
+You can see our visualization in action and hear our analysis here:
+[Project Presentation Video](https://www.youtube.com/watch?v=Yw88DFt5wio)
+
+**Team Members:** Taha Mert İlhan, Hasan Furkan Koca, Yiğit Taha Ak, Hakan Yerdraç.
